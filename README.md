@@ -1,4 +1,5 @@
-## Hi there 👋 I am working, passionate developer and entreprenur, I like building things..
+## Hi there 👋 I am Akram, passionate developer and entreprenur 
+### I like building things..
 
 <!--
 **akramlodi/akramlodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
