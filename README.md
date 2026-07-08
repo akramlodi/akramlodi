@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Building apps and websites
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on LLM research
+- 🌱 I’m currently learning Pytorch and fine Tuning LLMs
 - 💬 Ask me about LLM's in coding
 - 📫 How to reach me: mdakram23741@gmail.com
 - ⚡ Fun fact: I've travlled to 7 countries 🌍
+- Portfolio website: www.akramlodi.com
